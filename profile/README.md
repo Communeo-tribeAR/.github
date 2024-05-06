@@ -1,5 +1,3 @@
-[![Build Status](https://Communeo-tribeAR.today/ng-movies.svg?branch=master)](https://Communeo-tribeAR.today/online-edu/movie-app)
-
 # Communeo Películas Tribe ARGENTINA (AR)
 
 This project is movie library where list of movies are displayed. It is simply showcase of angular features such as modules, components, services, routing, data-binding, etc.
